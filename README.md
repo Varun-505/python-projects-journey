@@ -74,7 +74,7 @@ To build strong programming fundamentals through consistent hands-on projects an
 
 - [x] 01 - Quiz Game  
 - [x] 02 - Number Guessing Game  
-- [ ] 03 - Rock Paper Scissors  
+- [x] 03 - Rock Paper Scissors  
 - [ ] 04 - Choose Your Own Adventure Game  
 - [ ] 05 - Password Generator  
 - [ ] 06 - Pig Game  
