@@ -72,7 +72,7 @@ To build strong programming fundamentals through consistent hands-on projects an
 
 ## 📈 Progress Tracker
 
-- [ ] 01 - Quiz Game  
+- [x] 01 - Quiz Game  
 - [ ] 02 - Number Guessing Game  
 - [ ] 03 - Rock Paper Scissors  
 - [ ] 04 - Choose Your Own Adventure Game  
