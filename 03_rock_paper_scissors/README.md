@@ -1,4 +1,4 @@
-# Rock Paper Scissors 🎮
+# Rock Paper Scissors 
 
 A command-line implementation of the classic Rock Paper Scissors game built with Python. Play against the computer, track your wins, and see the final score when you quit.
 

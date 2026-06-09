@@ -1,10 +1,10 @@
-# 🎯 Number Guessing Game (Python)
+#  Number Guessing Game (Python)
 
 A simple command-line number guessing game built using Python. The program randomly selects a number within a user-defined range, and the player must guess it with hints provided after each attempt.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User-defined number range
 - Random number generation
@@ -16,7 +16,7 @@ A simple command-line number guessing game built using Python. The program rando
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. You enter the maximum number of the range.
 2. The program randomly selects a number between 0 and your chosen number.
@@ -25,7 +25,7 @@ A simple command-line number guessing game built using Python. The program rando
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
 
@@ -33,7 +33,7 @@ No external libraries required.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 python main.py

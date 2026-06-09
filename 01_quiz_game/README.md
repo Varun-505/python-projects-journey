@@ -1,10 +1,10 @@
-# Quiz Game 🎯
+# Quiz Game 
 
-## 📌 Description
+##  Description
 
 A simple command-line quiz game built with Python. The player answers computer-related questions, receives immediate feedback after each answer, and gets a final score at the end.
 
-## ✨ Features
+##  Features
 
 * Interactive command-line interface
 * Case-insensitive answer checking
@@ -12,7 +12,7 @@ A simple command-line quiz game built with Python. The player answers computer-r
 * Incorrect answer tracking
 * Percentage score calculation
 
-## 🧠 Concepts Used
+##  Concepts Used
 
 * Variables
 * User input (`input()`)
@@ -21,7 +21,7 @@ A simple command-line quiz game built with Python. The player answers computer-r
 * Arithmetic operations
 * Formatted strings (f-strings)
 
-## ▶️ How to Run
+## ▶ How to Run
 
 Make sure Python is installed on your system.
 
@@ -37,7 +37,7 @@ or
 python3 main.py
 ```
 
-## 📝 Example Output
+##  Example Output
 
 ```text
 Welcome to my computer quiz!
@@ -62,7 +62,7 @@ Your score is 100.0 %
 You got 0 questions incorrect!
 ```
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add more questions
 * Use loops to avoid repeating code
