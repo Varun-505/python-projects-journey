@@ -1,10 +1,10 @@
-# 🐍 Python Projects Journey
+# Python Projects Journey
 
 This repository contains 21 Python projects built as part of a structured self-learning journey in Python programming. The focus is on learning through practical development, starting from beginner-level projects and progressing toward more advanced applications.
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 This is a learning-focused repository where I:
 
@@ -16,9 +16,9 @@ This is a learning-focused repository where I:
 
 ---
 
-## 🚀 Projects Included
+## Projects Included
 
-### 🟢 Beginner Projects
+### Beginner Projects
 1. Quiz Game  
 2. Number Guessing Game  
 3. Rock Paper Scissors  
@@ -31,7 +31,7 @@ This is a learning-focused repository where I:
 
 ---
 
-### 🟡 Intermediate Projects
+### Intermediate Projects
 10. Turtle Racing  
 11. WPM Typing Test  
 12. Alarm Clock  
@@ -43,7 +43,7 @@ This is a learning-focused repository where I:
 
 ---
 
-### 🔴 Advanced Projects
+### Advanced Projects
 18. Shortest Path Finder  
 19. Mastermind Game  
 20. Aim Trainer  
@@ -64,19 +64,19 @@ This is a learning-focused repository where I:
 
 ---
 
-## 🎯 Goal
+## Goal
 
 To build strong programming fundamentals through consistent hands-on projects and gradually develop real-world software development skills.
 
 ---
 
-## 📈 Progress Tracker
+## Progress Tracker
 
 - [x] 01 - Quiz Game  
 - [x] 02 - Number Guessing Game  
 - [x] 03 - Rock Paper Scissors  
-- [ ] 04 - Choose Your Own Adventure Game  
-- [ ] 05 - Password Generator  
+- [x] 04 - Choose Your Own Adventure Game  
+- [x] 05 - Password Generator  
 - [ ] 06 - Pig Game  
 - [ ] 07 - Madlibs Generator  
 - [ ] 08 - Timed Math Challenge  
@@ -96,7 +96,7 @@ To build strong programming fundamentals through consistent hands-on projects an
 
 ---
 
-## 📌 Notes
+## Notes
 
 Each project is organized in its own folder containing:
 
@@ -106,7 +106,7 @@ Each project is organized in its own folder containing:
 
 ---
 
-## 🧠 Learning Approach
+## Learning Approach
 
 - Build projects step-by-step  
 - Focus on understanding, not memorization  
@@ -116,6 +116,6 @@ Each project is organized in its own folder containing:
 
 ---
 
-## 📅 Status
+## Status
 
-🚧 In Progress
+In Progress
